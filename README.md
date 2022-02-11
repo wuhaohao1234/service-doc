@@ -10,3 +10,6 @@
 2. 以文件夹命名一个model
 3. 单个接口放在单个文件
 
+## 预览
+
+![example](example.png)
